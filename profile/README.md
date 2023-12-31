@@ -1,4 +1,4 @@
-# [CPQ Consultant](https://www.cpqconsultant.com)™
+# [CPQ Consultant](https://www.cpqconsultant.com) ™
 - CPQ DevKit™ - our flagship product that help development teams work with Configure Price Quote tools
 
   - CPQ DevKit™ for Oracle
